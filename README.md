@@ -4,6 +4,7 @@
 ## The tools used to create a website
 <p align=left>
 <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&amp;logo=visual%20studio%20code&amp;logoColor=blue" style="max-width:100%;">
+<img src="https://img.shields.io/badge/RDBMS%20MySQL-SQLYog-blue?&amp;logo=sqlyog&amp;logoColor=blue" style="max-width:100%;">
 <img src="https://img.shields.io/badge/Database-MySql-blue?style=flat?&amp;logo=mysql&amp;logoColor=blue" style="max-width:100%;">
 <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat?&amp;logo=mongodb&amp;logoColor=green" style="max-width:100%;">
 </p>
