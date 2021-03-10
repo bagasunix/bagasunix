@@ -3,7 +3,7 @@
 
 ## The tools used to create a website
 <p align=left>
-[![Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=?logo=visual-studio-code]
+<img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=?logo=visual-studio-code" style="max-width:100%;">
 </p>
 
 ## Some of my Github Stats
