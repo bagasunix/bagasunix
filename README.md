@@ -1,4 +1,4 @@
-## Hey 👋, This is Aldino Pratama Bagaskara
+## Hey 👋, I'm Aldino Pratama
 [![Gmail Badge](https://img.shields.io/badge/-aldinopratama15@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aldinopratama15@gmail.com)](mailto:aldinopratama15@gmail.com) [![Github Badge](https://img.shields.io/badge/-bagasunix-grey?style=flat&logo=github&logoColor=white&link=https://github.com/bagasunix/)](https://www.github.com/bagasunix/) <p align='left'> You can view my resume <a href='https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/710c4db6ae773391087b596ba77365dc.pdf' target=_blank><u>here</u>.</a></p>
 
 ## The tools used to create a website
