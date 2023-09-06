@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bagasunix/bagasunix/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bagasunix/bagasunix/man/workflows/output/snake.svg" alt="Snake animation" />
 
 ###
