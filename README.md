@@ -44,11 +44,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redis/FF4438/FF4438" height="30" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="30" alt="kafka logo" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20/FFFFFF" height="30" alt="kafka logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" height="30" alt="rabbitmq logo" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600/FF6600" height="30" alt="rabbitmq logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" height="30" alt="swagger logo" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D/85EA2D" height="30" alt="swagger logo" />
 </div>
 
 ###
