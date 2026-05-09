@@ -58,8 +58,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagasunix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagasunix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagasunix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=bagasunix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -73,7 +73,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/bagasunix/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=bagasunix">
+  <a href="https://github.com/bagasunix?tab=followers"><img src="https://img.shields.io/github/followers/bagasunix?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
 ###
